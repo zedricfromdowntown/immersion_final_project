@@ -1,6 +1,3 @@
-Thanks for downloading this template!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://raw.githack.com/zedricfromdowntown/immersion_final_project/main/index.html
+Author: Kyle Gwapo
